@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <style name="StyleTitle14" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/montserrat_alternates_medium</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/textVariantsColor</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+    
+</resources>
